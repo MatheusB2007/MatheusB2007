@@ -55,6 +55,6 @@
 
 ## Como Falar Comigo 
 
--[Linkedin] (https://github.com/MatheusB2007)
+-[Linkedin](https://www.linkedin.com/in/matheus-barbosa-06561a313/)
 
 -*matheusbsouza2007@gmail.com*
